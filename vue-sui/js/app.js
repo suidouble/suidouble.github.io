@@ -391,6 +391,36 @@ eval("// style-loader: Adds some css to the DOM by adding a <style> tag\n\n// lo
 
 /***/ }),
 
+/***/ "?3aeb":
+/*!*******************************!*\
+  !*** child_process (ignored) ***!
+  \*******************************/
+/***/ (() => {
+
+eval("/* (ignored) */\n\n//# sourceURL=webpack://vue-sui/child_process_(ignored)?");
+
+/***/ }),
+
+/***/ "?93c3":
+/*!********************!*\
+  !*** fs (ignored) ***!
+  \********************/
+/***/ (() => {
+
+eval("/* (ignored) */\n\n//# sourceURL=webpack://vue-sui/fs_(ignored)?");
+
+/***/ }),
+
+/***/ "?58b8":
+/*!**********************!*\
+  !*** path (ignored) ***!
+  \**********************/
+/***/ (() => {
+
+eval("/* (ignored) */\n\n//# sourceURL=webpack://vue-sui/path_(ignored)?");
+
+/***/ }),
+
 /***/ "?5ddf":
 /*!************************!*\
   !*** crypto (ignored) ***!
